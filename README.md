@@ -1,4 +1,4 @@
- <h2> Hi, I'm Jessica! <img src="https://www.visualartstudio.com.ve/img/programacion.gif" width="75"></h2>
+ <h2> Hi, I'm Jessica Aljure! <img src="https://www.visualartstudio.com.ve/img/programacion.gif" width="75"></h2>
 <img align='right' src="https://miclasedetic.files.wordpress.com/2021/06/9dcb36579d4518b31451906466dc735d.gif" width="290">
   <p><em> MisiónTic2022 <a href="http://www.upb.edu.co">Universidad Pontificia Bolivarina</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Ingeniera Industrial<a href="https://www.corhuila.edu.co/seccion/inicio.html"> Corporación Universitaria del Huila </a><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_institucional_de_la_Corporaci%C3%B3n_Universitaria_del_Huila_-_CORHUILA.png" width="40"> 
 </em></p>
