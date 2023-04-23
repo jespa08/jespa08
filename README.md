@@ -12,14 +12,20 @@
 ```javascript
 const thai = {
   pronouns: "Jessica",
-  code: [Javascript, HTML, CSS, Python, mysql, SCRUM]
+  code: [SQL, Python, MYSQL, Power Bi, Javascript, Scrum, Canvas]
   courses{
   
                         Corhuila: "Ingeniera Industrial"
                         MIsiónTic: "Desarrollo Web",
-                        IBM: "Artificial Intelligence Foundations Specialization
-                              (Introduction to Artificial Intelligence,Getting Started with AI using IBM Watson, 
-                              Building AI Powered Chatbots Without Programming)"
+                        IBM: "Artificial Intelligence Foundations Specialization",
+                        DataCamp: "Intermediate Python"
+                                  "Data Manipulation in SQL"
+                        Udemy: "Análisis de Datos y Gráficos con Python: Panda  y Matplotlib",
+                               "Curso de Base de Datos MySQL Server"
+                        Platzi: "Análisis de Datos con Power Bi" ,"Google Data Studio", 
+                                 "Matemáticas para Data Science: Estadística Descriptiva"
+                                 "Análisis de Negocios para Ciencia de Datos"
+
                       },
 }
 ```
