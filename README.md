@@ -23,8 +23,8 @@ const thai = {
                         Udemy: "Análisis de Datos y Gráficos con Python: Panda  y Matplotlib",
                                "Curso de Base de Datos MySQL Server"
                         Platzi: "Análisis de Datos con Power Bi" ,"Google Data Studio", 
-                                 "Matemáticas para Data Science: Estadística Descriptiva"
-                                 "Análisis de Negocios para Ciencia de Datos"
+                                "Matemáticas para Data Science: Estadística Descriptiva"
+                                "Análisis de Negocios para Ciencia de Datos"
 
                       },
 }
