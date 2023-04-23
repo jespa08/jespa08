@@ -12,7 +12,8 @@
 ```javascript
 const thai = {
   pronouns: "Jessica",
-  code: [SQL, Python, MYSQL, Power Bi, Javascript, Scrum, Canvas]
+  code: [SQL, Python, MYSQL, Power Bi, Javascript]
+  Agile Project Management : [Scrum, Lean, kanban]
   courses{
   
                         Corhuila: "Ingeniera Industrial"
@@ -30,6 +31,6 @@ const thai = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectar con gente diferente,</b> si quieres saludar <b>No dudes en contactarme!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Bienvenidos,</b> si quieres compartir <b>No dudes en contactar!</b> :)</em>
 
 ---
